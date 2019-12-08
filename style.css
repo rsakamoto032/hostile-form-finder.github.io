@@ -11,7 +11,7 @@ VERSION:	Versoin Number
 @import url("https://fonts.googleapis.com/css?family=Playfair+Display:400,700|Roboto:300,400,500,700");
 @font-face {
   font-family: 'BwNistaInt-xBd';
-  src: url("../plugins/fonts/BwNistaInt-xBd.woff") format("woff");
+  src: url("BwNistaInt-xBd.woff") format("woff");
   font-style: normal;
   font-display: swap;
 }
@@ -907,4 +907,4 @@ blockquote {
   font-weight: bold;
 }
 
-/*# sourceMappingURL=maps/style.css.map */
+/*# sourceMappingURL=style.css.map */
